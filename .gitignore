@@ -1,0 +1,15 @@
+.vscode/settings.json
+imgui.ini
+src/.deploy_cfg
+src/physics.py
+src/physics1.py
+src/physics2.py
+src/autonomous/__pycache__/__init__.cpython-38.pyc
+src/autonomous/__pycache__/do_nothing.cpython-38.pyc
+src/sim/config.json
+src/__pycache__/physics.cpython-38.pyc
+src/components/__pycache__/__init__.cpython-38.pyc
+src/components/__pycache__/climb.cpython-38.pyc
+src/components/__pycache__/drivetrain.cpython-38.pyc
+src/components/__pycache__/power_cell_handler.cpython-38.pyc
+src/components/__pycache__/wheel_of_fortune.cpython-38.pyc
